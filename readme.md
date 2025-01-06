@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Hunter is an AI Agent designed to help users identify airdrop opportunities, optimize farming strategies, gather on-chain insights across blockchain networks, as well as gather X insights. The agent leverages large language models, social media monitoring, and blockchain analytics to provide actionable intelligence to various communication platform. $DRPXBT the utility token of the ecosystem. By using the Hunter AI Agent, users can gain insights into emerging airdrops, discover profitable farming opportunities, and optimize their engagement with the broader crypto space.
+Hunter is an AI Agent designed to help users identify airdrop opportunities, optimize farming strategies, gather on-chain insights across blockchain networks, as well as gather X insights. The agent leverages large language models, social media monitoring, and blockchain analytics to provide actionable intelligence to various communication platform. By using the Hunter AI Agent, users can gain insights into emerging airdrops, discover profitable farming opportunities, and optimize their engagement with the broader crypto space.
 
 ---
 
